@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.17" />
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <ProjectReference Include="..\EcommerceWebSite.Domain\EcommerceWebSite.Domain.csproj" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <Folder Include="Views\Confirm\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,162 @@
+<div id="navbarHeader" class="main-container" [ngClass]="{
+  'arabic-font': lang === 'ar'
+}">
+  <div>
+    <div class="language-icon">
+      <a (click)="onChange()">
+        <img src="../../../assets/download.png" alt="language">
+        <span>{{ lang === 'en' ? 'العربية' : 'English' }}</span>
+      </a>
+    </div>
+    <div class="navbar">
+      <a routerLink="/home" class="navbar-logo">
+        <img src="../../../assets/Logo-White.png" alt="logo">
+      </a>
+      <div class="navbar-center">
+        <input type="text" #searchInput (input)="Search(searchInput.value)" placeholder="{{ 'nav.search' | translate }}...">
+      </div>
+      <div [ngClass]="{
+        'navbar-icons-arabic': lang === 'ar',
+        'navbar-icons': lang === 'en',
+      }">
+        <a href="/contactus" style="margin-right: -43px;"><i class="mdi mdi-map-marker-outline"></i><span>{{ 'nav.storelocation' |
+            translate }}</span></a>
+            @if(isLoggedIn())
+            {
+              <a (click)="logout()" style="margin-right: 6px">
+                <i class="mdi mdi-account-outline"></i>
+                <span>{{ 'nav.logout' | translate }}</span>
+              </a>
+            }@else{
+        <a routerLink="/login" style="margin-right: 6px">
+          <i class="mdi mdi-account-outline"></i>
+          <span>{{ 'nav.signin' | translate }}</span>
+        </a>
+      }
+        <a routerLink="/cart">
+          <i class="mdi mdi-cart-outline" [ngClass]="{
+            'icos-arabic': lang === 'ar',
+            'icos': lang === 'en'
+          }"></i>
+          <span [ngClass]="{
+            'count-arabic': lang === 'ar',
+            'count': lang === 'en'
+          }">1</span>
+        </a>
+      </div>
+    </div>
+    <div class="navbar-bottom">
+      @for(c of CategoryList; track $index ){
+      <div class="subnav">
+        <button class="subnavbtn" [routerLink]="['/Product']" (click)="onCategoryClick(c.id)" routerLinkActive="router-link-active">
+          {{ lang === 'en' ? c.enName : c.arName }}
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="subnav-content shadow" [style.margin-left.px]="[lang ==='en' ? 0 : 250]">
+          <div>
+          <img [src]="'../../../assets/CategoryAndProductImg/' + (lang === 'en' ? c.imgURL : c.imgURLAr)" width="100%"
+              alt="">
+          </div>
+          <ng-container class="w-25 ">
+            @for(s of c.subCategories; track $index){
+            <div class="column w-25 h-25">
+              <div class="row">
+               <a (click)="onSubCategoryClick(s.id)" [routerLink]="['/productOfCAt']" routerLinkActive="router-link-active">  
+                  <span>{{ lang === 'en' ? s.enName : s.arName }}</span>
+                </a>
+              </div>
+            </div>
+            }
+
+          </ng-container>
+        </div>
+      </div>
+      }
+      <div class="subnav">
+        <button class="subnavbtn">{{ 'nav.hotdeals' | translate }}</button>
+      </div>
+      <div class="contacts">
+        <a href=""><i style="color: aliceblue;" class="mdi mdi-phone-outline"></i> <span> 16942</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+@if(Products.length>0){
+<div class="container-fluid">
+  <div class="row" style="padding: 10px; margin: 5px ;" >
+      <div class="col-12">
+          <ol class="filterproducts products list items product-items">
+              @for(product of Products; track product.id){
+                  <li  (click)="Addtofavourite(product)" class="item product product-item">
+                      <div class="product-item-info type1">
+                          <div class="product photo product-item-photo">
+                              <a>
+                                  <img class="product-image-photo default_image rounded porto-lazyload porto-lazyload-loaded"
+                                      width="300" height="300" alt=""
+                                      src="../../../assets/CategoryAndProductImg/{{product.imgURL}}" style="display: block;">
+                              </a>
+                              <div class="product-labels">
+                                  <div class="product-label sale-label">-13%</div>
+                              </div>
+                          </div>
+                          <div class="product details product-item-details">
+                              <strong class="product name product-item-name">
+                                  <a class="product-item-link" href="#">
+                                      {{product.enDescription}} </a>
+                              </strong>
+          
+                              <div class="price-box price-final_price" data-product-id="11884">
+          
+                                  <span class="old-price">
+          
+          
+                                      <span class="price-container price-final_price tax weee">
+                                          <span class="price-label">was</span>
+                                          <span id="old-price-11884" data-price-amount="27900" data-price-type="oldPrice"
+                                              class="price-wrapper "><span class="price">27900.00 &nbsp;EGP</span></span>
+                                      </span>
+                                  </span>
+                                  <span class="special-price">
+                                      <span class="price-container price-final_price tax weee">
+                                          <span class="price-label">Special Price</span>
+                                          <span id="product-price-11884" data-price-amount="24400" data-price-type="finalPrice"
+                                              class="price-wrapper "><span class="price">{{product.price}} &nbsp;EGP</span></span>
+                                      </span>
+                                  </span>
+          
+                              </div>
+                              <div class="product-item-inner">
+                                  <div class="product actions product-item-actions">
+                                      <a href="#" class="action towishlist actions-secondary" title="Add to Wish List"
+                                          aria-label="Add to Wish List" data-action="add-to-wishlist" role="button">
+                                          <span>Add to Wish List</span>
+                                      </a>
+                                      <div class="actions-primary">
+                                          <form data-role="tocart-form">
+                                              <input type="hidden" name="product" value="11884">
+                                              <input type="hidden" name="uenc" value="">
+                                              <input name="form_key" type="hidden" value=""> <button type="submit"
+                                                  title="Add to Cart" class="action tocart primary"(click)="addToCart(product)">
+                                                  <span>Add to Cart</span>
+                                              </button>
+                                          </form>
+                                      </div>
+                                      <a href="#" class="action tocompare actions-secondary" title="Add to Compare"
+                                          aria-label="Add to Compare" role="button">
+                                          <span>Add to Compare</span>
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </li>
+                  }
+             
+          </ol>
+
+
+         
+      </div>
+  </div>
+</div>}
+<router-outlet></router-outlet>

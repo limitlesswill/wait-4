@@ -1,0 +1,39 @@
+<app-nav-bar></app-nav-bar> 
+<div class="titleForm">{{'nav.signin'| translate}}</div>
+<div class="container" style="width: 460px; margin-bottom: 70px;" [style.direction]="lang=='ar' ? 'rtl' : 'ltr'">
+    <form [formGroup]="LoginForm" (ngSubmit)="handleLogin()" class="row g-3">
+  
+  
+      <div class="col-md-12">
+        <label for="inputemail" style="font-size: 12px;" class="form-label">{{'userInfo.email'| translate}} <span class="badge badge-danger" style="color: red; font-size: 10px;">*</span></label>
+        <input type="email" class="form-control" formControlName="UserEmail" name="UserEmail"
+        placeholder="{{'userInfo.TypeYour'| translate}} {{'userInfo.email'| translate}}" [style.direction]="lang=='ar' ? 'rtl' : 'ltr'">
+        @if(UserEmail?.invalid && (isSubmitted || UserEmail?.dirty || UserEmail?.touched )){
+            <small class="block p-error">
+                @if(UserEmail?.errors?.['required']){
+                <div>{{'userInfo.email'| translate}} {{'userInfo.required'| translate}}</div>
+                }
+            </small>
+            }
+      </div>
+      <div class="col-md-12">
+        <label for="inputpsw" style="font-size: 12px;" class="form-label">{{'userInfo.password'| translate}}  <span class="badge badge-danger" style="color: red; font-size: 10px;">*</span></label>
+        <input type="password" class="form-control"formControlName="Password" name="Password"
+        placeholder="{{'userInfo.TypeYour'| translate}} {{'userInfo.password'| translate}}">
+        @if(Password?.invalid && (isSubmitted || Password?.dirty || Password?.touched )){
+  
+            <small class="block p-error">
+                @if(Password?.errors?.['required']){
+                <div>{{'userInfo.password'| translate}} {{'userInfo.required'| translate}}.</div>
+                }
+            </small>
+            }
+      </div>
+  
+    <div class="col-12">
+      <button type="submit" [disabled]="LoginForm.invalid" class="mybtn">{{'nav.signin'| translate}}</button>
+      <div style="text-align: center;padding: 10px ;"><a href="/register" > Register</a></div>
+    </div>
+  </form>
+  </div>
+  

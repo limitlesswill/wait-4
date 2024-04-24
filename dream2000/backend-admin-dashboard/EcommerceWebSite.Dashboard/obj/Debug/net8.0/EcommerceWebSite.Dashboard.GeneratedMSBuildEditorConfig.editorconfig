@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EcommerceWebSite.Dashboard
+build_property.RootNamespace = EcommerceWebSite.Dashboard
+build_property.ProjectDir = C:\Users\will\Desktop\limitlesswill\wait-4\dream2000\backend-admin-dashboard\EcommerceWebSite.Dashboard\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\will\Desktop\limitlesswill\wait-4\dream2000\backend-admin-dashboard\EcommerceWebSite.Dashboard
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Account/addAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxhZGRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Category/addCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcYWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Category/getCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcZ2V0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/dashboard/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaGJvYXJkXGRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/NotFound/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90Rm91bmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Order/getOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcZ2V0T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Product/addProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxhZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Product/getProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxnZXRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Role/addRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxhZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Role/getRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxnZXRSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Shared/showConfirmationModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNob3dDb25maXJtYXRpb25Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/SubCategory/addSubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcYWRkU3ViQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/SubCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/SubCategory/getSubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcZ2V0U3ViQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/will/Desktop/limitlesswill/wait-4/dream2000/backend-admin-dashboard/EcommerceWebSite.Dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

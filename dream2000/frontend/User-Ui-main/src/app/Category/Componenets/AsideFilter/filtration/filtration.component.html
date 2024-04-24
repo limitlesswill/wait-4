@@ -1,0 +1,43 @@
+<div class="sidebar sidebar-main mobile-sidebar">
+    <div class="pin-wrapper" style="height: 827px;">
+        <div class="sidebar-content sticky-active sticky-absolute"
+            style="border-bottom: 0px none rgb(119, 119, 119); width: 239px;">
+            <div id="layered-filter-block-container" class="layered-filter-block-container">
+                <div class="block-content filter-content">
+                    <div data-role="collapsible" class="filter-options-item  active" role="presentation"
+                        data-collapsible="true">
+                        <div data-role="title" class="filter-options-title text-center" role="tab" aria-selected="false"
+                            aria-expanded="true" tabindex="0">SubCategory<span class="toggle"></span></div>
+                        <div data-role="content" class="filter-options-content" role="tabpanel" aria-hidden="false">
+
+                            @for(Sub of SubCategoryList;track $index ){
+                            <ol class="items text-center">
+                                <!-- <a (click)="onSubCategoryClick(Sub.id)"  routerLinkActive="router-link-active"></a> -->
+                                <!-- <li class="item">
+                                    <a href="" rel="nofollow">{{Sub.enName}}</a>
+                                </li> -->
+                                 
+                                    <li class="item">
+                                        <a (click)="onSubCategoryClick(Sub.id)" [routerLink]="['/productOfCAt']" routerLinkActive="router-link-active" rel="nofollow">{{Sub.enName}}</a>
+                                    </li>
+                                
+                            </ol>
+                            }
+
+                        </div>
+                    </div>
+                    <div data-role="collapsible" class="filter-options-item  active" role="presentation"
+                        data-collapsible="true">
+                        <div data-role="title" class="filter-options-title text-center" role="tab" aria-selected="false"
+                            aria-expanded="true" tabindex="0"><span class="toggle"></span></div>
+                        <div data-role="content" class="filter-options-content" role="tabpanel" aria-hidden="false">
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

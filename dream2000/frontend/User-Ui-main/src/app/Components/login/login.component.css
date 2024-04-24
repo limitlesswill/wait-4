@@ -1,0 +1,20 @@
+.titleForm{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f4f4f4;
+  font-weight: bold;
+  font-size: 33px;
+  margin-bottom: 47px;
+  margin-top: 65px;
+  text-transform: uppercase;
+}
+.mybtn{
+  width: 100%;
+  border: none;
+  color: white;
+  background: #222529;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}

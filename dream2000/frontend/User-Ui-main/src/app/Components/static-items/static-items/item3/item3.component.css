@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    max-width: 83%;
+    max-height: 83%;
+}
