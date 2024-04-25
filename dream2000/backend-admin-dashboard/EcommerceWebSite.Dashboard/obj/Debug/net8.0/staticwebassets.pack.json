@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\344868623_638657481611079_6924915243662702076_n.jpg",
+      "PackagePath": "staticwebassets\\images\\344868623_638657481611079_6924915243662702076_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375263718_784205570169541_7275650434488286118_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375263718_784205570169541_7275650434488286118_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375267537_784205976836167_5966129826403706938_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375267537_784205976836167_5966129826403706938_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375267683_784205616836203_176440268578390302_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375267683_784205616836203_176440268578390302_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375294570_784205520169546_2200409320368446880_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375294570_784205520169546_2200409320368446880_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375296459_784205593502872_6944299044957217202_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375296459_784205593502872_6944299044957217202_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\375318841_784205953502836_7947803740443977078_n.jpg",
+      "PackagePath": "staticwebassets\\images\\375318841_784205953502836_7947803740443977078_n.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\car6.jpg",
+      "PackagePath": "staticwebassets\\images\\car6.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\images\\pngtree-blue-bird-vector-or-color-illustration-png-image_2013004.jpg",
+      "PackagePath": "staticwebassets\\images\\pngtree-blue-bird-vector-or-color-illustration-png-image_2013004.jpg"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\projects\\~finalproject\\dream2000\\backend-admin-dashboard\\EcommerceWebSite.Dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWebSite.Dashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceWebSite.Dashboard.props",
+      "PackagePath": "build\\EcommerceWebSite.Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWebSite.Dashboard.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWebSite.Dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWebSite.Dashboard.props",
+      "PackagePath": "buildTransitive\\EcommerceWebSite.Dashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
